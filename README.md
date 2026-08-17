@@ -1,4 +1,4 @@
-# Terrain & Vegetation Semantic Segmentation
+⭐⭐⛰️# Terrain & Vegetation Semantic Segmentation
 
 A complete PyTorch project for **semantic segmentation of remote-sensing images** for terrain/vegetation mapping and route/logistics planning.
 
