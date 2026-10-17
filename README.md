@@ -213,9 +213,7 @@ A future routing module can convert the segmentation map into a **cost map** and
 
 This project intentionally keeps route planning separate from segmentation so the ML component can be evaluated independently.
 
-## 10. Suggested resume description
 
-> Developed a PyTorch-based semantic segmentation system using U-Net and DeepLabV3 for pixel-level remote-sensing land-cover mapping, supporting terrain/vegetation classification into urban, agriculture, rangeland, forest, water and barren regions, with IoU evaluation and an interactive Streamlit inference interface.
 
 ## Dataset references
 
